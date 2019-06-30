@@ -1,3 +1,0 @@
-test4
-
-pridan text do text4.txt
