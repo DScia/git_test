@@ -1,1 +1,3 @@
 test1
+
+pridan text do text1.txt
