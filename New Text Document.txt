@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ne ahoj
+=======
+ahoj
+>>>>>>> d151919984fd4d391bcde459047cfa0d2bb9ead2
