@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 ahojdasa
+=======
+<<<<<<< .mine
+ah
+>>>>>>> branch7
 
+=======
+ahodaj
+
+>>>>>>> .theirs
